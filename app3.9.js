@@ -10,3 +10,4 @@ fs.writeFileSync('notes.txt', 'My name is Tien')
 
 
 fs.appendFileSync('notes.txt', ' and I am from Vietnam.')
+
